@@ -11,10 +11,12 @@ import Section9 from './Section-9';
 import Section10 from './Section-10';
 import Section11 from './Section-11';
 import Footer from '../components/Footer';
+import PageIntro from '../components/PageIntro';
 
 export default function Home() {
   return (
     <>
+      <PageIntro />
       <Section1 />
       <Section2 />
       <Section3 />

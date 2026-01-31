@@ -72,7 +72,7 @@ export default function Section10() {
             </div>
             <div className="mt-6">
               <span className="font-sans text-xl font-bold tracking-wider text-black">
-                HOUSEM<span className="text-gold">OO</span>D
+                FORT<span className="text-gold">UNA</span>
               </span>
             </div>
           </div>
@@ -229,7 +229,7 @@ export default function Section10() {
             </div>
             <div className="mt-4">
               <span className="font-sans text-lg font-bold tracking-wider text-black">
-                HOUSEM<span className="text-gold">OO</span>D
+                FORT<span className="text-gold">UNA</span>
               </span>
             </div>
           </div>
@@ -306,7 +306,7 @@ export default function Section10() {
             </div>
             <div className="mt-3">
               <span className="font-sans text-base font-bold tracking-wider text-black">
-                HOUSEM<span className="text-gold">OO</span>D
+                FORT<span className="text-gold">UNA</span>
               </span>
             </div>
           </div>

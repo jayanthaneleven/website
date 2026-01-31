@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Footer from "../components/Footer";
+import Header from "../components/Header";
 
 const testimonials = [
   {
@@ -93,6 +94,11 @@ export default function Contact() {
 
   return (
     <main className="min-h-screen  font-['Inter',sans-serif]">
+      {/* Header */}
+      <div className="bg-[#f1f1f1]">
+        <Header variant="dark" />
+      </div>
+
       {/* Contact Form Section */}
       <section className="py-20 px-6 md:px-10 lg:px-[42px] bg-[#f1f1f1]">
         <div className="max-w-[1400px] mx-auto">
@@ -156,17 +162,18 @@ export default function Contact() {
             {/* Address */}
             <div>
               <p className="text-[12px] text-[#828487] mb-2">Address:</p>
-              <p className="text-[14px] text-black">France, Paris</p>
-              <p className="text-[14px] text-black">Str. Believein Yourself 29</p>
-              <p className="text-[14px] text-black">App. 390</p>
+              <p className="text-[14px] text-black">TCXX/2153, MLA Road, Near Devi Temple</p>
+              <p className="text-[14px] text-black">Kudapanakunnu, Thiruvananthapuram</p>
+              <p className="text-[14px] text-black">Kerala, India</p>
             </div>
 
             {/* Contact */}
             <div>
-              <p className="text-[14px] text-[#828487] mb-1">(099) 791-00-75</p>
+              <p className="text-[14px] text-[#828487] mb-1">Tél: (+91) 9946661700 | Mob: (+91) 8907321700</p>
               <p className="text-[18px] md:text-[20px] font-medium text-black">
-                hi@housemood.com
+                fortuneinteriorf3@gmail.com
               </p>
+              <p className="text-[12px] text-[#828487] mt-2">Mon - Sat, 11am to 7pm</p>
             </div>
           </div>
 

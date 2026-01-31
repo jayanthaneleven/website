@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import FloatingContact from "./components/FloatingContact";
 
 export const metadata: Metadata = {
-  title: "Housemood | Professional Interior Design Agency",
+  title: "Fortuna | Professional Interior Design Agency",
   description:
-    "At Housemood we design stylish, functional interiors that reflect your vision and enhance your space. From homes to commercial projects, we bring creativity and expertise to every detail.",
+    "At Fortuna we design stylish, functional interiors that reflect your vision and enhance your space. From homes to commercial projects, we bring creativity and expertise to every detail.",
   icons: {
     icon: [
       {
@@ -20,17 +21,17 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: "website",
-    title: "Housemood | Professional Interior Design Agency",
+    title: "Fortuna | Professional Interior Design Agency",
     description:
-      "At Housemood we design stylish, functional interiors that reflect your vision and enhance your space. From homes to commercial projects, we bring creativity and expertise to every detail.",
+      "At Fortuna we design stylish, functional interiors that reflect your vision and enhance your space. From homes to commercial projects, we bring creativity and expertise to every detail.",
     images: ["https://framerusercontent.com/images/JZI8YzJ7valWSxaZ1UxuawgEA.png"],
-    url: "https://housemood.framer.website/",
+    url: "https://Fortuna.framer.website/",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Housemood | Professional Interior Design Agency",
+    title: "Fortuna | Professional Interior Design Agency",
     description:
-      "At Housemood we design stylish, functional interiors that reflect your vision and enhance your space. From homes to commercial projects, we bring creativity and expertise to every detail.",
+      "At Fortuna we design stylish, functional interiors that reflect your vision and enhance your space. From homes to commercial projects, we bring creativity and expertise to every detail.",
     images: ["https://framerusercontent.com/images/JZI8YzJ7valWSxaZ1UxuawgEA.png"],
   },
   robots: "max-image-preview:large",
@@ -43,7 +44,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        {children}
+        <FloatingContact />
+      </body>
     </html>
   );
 }
