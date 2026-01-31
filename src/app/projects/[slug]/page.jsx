@@ -314,7 +314,7 @@ const projectsData = {
     title: "Modern Culinary Kitchen",
     location: "Kozhikode, Kerala",
     date: "Mar 5, 2025",
-    heroImage: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&h=900&fit=crop&q=90",
+    heroImage: "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=1600&h=900&fit=crop&q=90",
     category: "Home",
     teamMembers: 5,
     client: {
@@ -332,11 +332,11 @@ const projectsData = {
       secondary: "Smart storage solutions, premium appliances, and durable materials ensure this kitchen will serve the family beautifully for years to come. The design respects Kerala's culinary traditions while embracing modern convenience.",
     },
     gallery: {
-      main: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&h=900&fit=crop&q=90",
+      main: "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=1600&h=900&fit=crop&q=90",
       images: [
-        "https://images.unsplash.com/photo-1556909114-44e3e70034e2?w=800&h=600&fit=crop&q=90",
-        "https://images.unsplash.com/photo-1556909190-6a3e5b4c9c77?w=800&h=600&fit=crop&q=90",
-        "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=1600&h=900&fit=crop&q=90",
+        "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=800&h=600&fit=crop&q=90",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&h=600&fit=crop&q=90",
+        "https://images.unsplash.com/photo-1600489000022-c2086d79f9d4?w=1600&h=900&fit=crop&q=90",
         "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&h=600&fit=crop&q=90",
       ],
     },

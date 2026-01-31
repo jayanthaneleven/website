@@ -22,7 +22,7 @@ const navLinks = [
 
 const socialLinks = [
   { label: "Instagram", href: "https://www.instagram.com/fortuna._interiors?igsh=dnQ4OGJpcHN4dDN2&utm_source=qr" },
-  { label: "Behance", href: "https://behance.net" },
+  { label: "Facebook", href: "https://www.facebook.com/people/Fortuna-Interiors/pfbid02s4cZyZ1KrQLfxa5bA8Td6S5PhBHoojxsDwxGNRsiTqyKzw95uRnsMhcuU2Bn7jel/" },
   { label: "Twitter", href: "https://twitter.com" },
 ];
 
@@ -171,13 +171,13 @@ export default function Menu({ isOpen, onClose }) {
         {/* Contact Info */}
         <div className="mt-auto pt-12 flex gap-8">
           <div className="text-white text-[12px] leading-[1.8]">
-            <p className="font-medium">Kudapanakunnu, Thiruvananthapuram</p>
-            <p className="opacity-50">TCXX/2153, MLA Road</p>
-            <p className="opacity-50">Near Devi Temple, Kerala</p>
+            <p className="font-medium">K. Pudur, Madurai</p>
+            <p className="opacity-50">No. 1/1, Madha Kovil 2nd Street</p>
+            <p className="opacity-50">Tamil Nadu - 625007</p>
           </div>
           <div className="text-white text-[12px] leading-[1.8]">
             <p className="opacity-50">fortuneinteriorf3@gmail.com</p>
-            <p className="opacity-50">(+91) 9946661700</p>
+            <p className="opacity-50">(+91) 6374434648</p>
           </div>
         </div>
       </div>
@@ -220,13 +220,13 @@ export default function Menu({ isOpen, onClose }) {
           {/* Contact Info */}
           <div className="flex gap-12 lg:gap-20">
             <div className="text-white text-[13px] leading-[1.9]">
-              <p className="font-medium">Kudapanakunnu, Thiruvananthapuram</p>
-              <p className="opacity-50">TCXX/2153, MLA Road</p>
-              <p className="opacity-50">Near Devi Temple, Kerala</p>
+              <p className="font-medium">K. Pudur, Madurai</p>
+              <p className="opacity-50">No. 1/1, Madha Kovil 2nd Street</p>
+              <p className="opacity-50">Tamil Nadu - 625007</p>
             </div>
             <div className="text-white text-[13px] leading-[1.9]">
               <p className="opacity-50">fortuneinteriorf3@gmail.com</p>
-              <p className="opacity-50">(+91) 9946661700</p>
+              <p className="opacity-50">(+91) 6374434648</p>
             </div>
           </div>
         </div>

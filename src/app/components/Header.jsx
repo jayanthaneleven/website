@@ -37,15 +37,15 @@ export default function Header({ variant = "light" }) {
 
         {/* Address */}
         <div className={`hidden lg:flex flex-col gap-0 ${textColor} text-[12px] leading-[1.7]`}>
-          <span className="font-medium">Kudapanakunnu, Thiruvananthapuram</span>
-          <span className={textMuted}>TCXX/2153, MLA Road</span>
-          <span className={textMuted}>Near Devi Temple, Kerala</span>
+          <span className="font-medium">K. Pudur, Madurai</span>
+          <span className={textMuted}>No. 1/1, Madha Kovil 2nd Street</span>
+          <span className={textMuted}>Tamil Nadu - 625007</span>
         </div>
 
         {/* Contact */}
         <div className={`hidden md:flex flex-col gap-0 ${textColor} text-[12px] leading-[1.7]`}>
           <span className={textMuted}>fortuneinteriorf3@gmail.com</span>
-          <span className={textMuted}>(+91) 9946661700</span>
+          <span className={textMuted}>(+91) 6374434648</span>
         </div>
 
         {/* CTA Button + Menu */}

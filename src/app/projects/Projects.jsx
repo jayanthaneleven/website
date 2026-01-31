@@ -80,7 +80,7 @@ const projectsData = [
     title: "Modern Culinary Kitchen",
     location: "Kozhikode, Kerala",
     date: "Mar 5, 2025",
-    image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&h=900&fit=crop&q=90",
+    image: "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=1600&h=900&fit=crop&q=90",
     clientName: "Arun Kumar",
     clientAvatar: "https://framerusercontent.com/images/ob1xkuEYP7cvZ02VMk8oHHsibM.png",
     category: "home",

@@ -14,7 +14,7 @@ export default function FloatingContact() {
   const [submitSuccess, setSubmitSuccess] = useState(false);
 
   // Contact details - customize these
-  const whatsappNumber = "918907321700"; // WhatsApp number
+  const whatsappNumber = "917402782714"; // WhatsApp number
   const whatsappMessage = "Hi! I'm interested in your interior design services.";
   const emailAddress = "fortuneinteriorf3@gmail.com";
   const emailSubject = "Interior Design Inquiry";
@@ -52,9 +52,11 @@ export default function FloatingContact() {
       {/* Floating Contact Widget */}
       <div
         className={`fixed z-[9999] transition-all duration-500 ease-out
-          right-0 backdrop-blur-md bg-amber-100 py-2 rounded-l-xl overflow-auto 
+          right-0 backdrop-blur-md bg-amber-100/40 shadow-lg
+           py-2 rounded-l-xl overflow-auto 
           top-1/2 -translate-y-1/2
           md:translate-x-[50%] md:hover:translate-x-0
+          hover:backdrop-blur-none hover:bg-amber-100
           ${isVisible ? "opacity-100" : "opacity-0 translate-x-full"}`}
         style={{ fontFamily: '"Inter", "Poppins", sans-serif' }}
       >

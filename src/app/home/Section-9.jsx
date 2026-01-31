@@ -8,27 +8,27 @@ import 'swiper/css/navigation';
 const testimonials = [
   {
     id: 1,
-    name: "Morgan Dufresne",
+    name: "Murugan Durai",
     role: "Company owner",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=face",
+    image: "/client1.jpeg",
     quote: "From concept to reality, the team turned my vision into a stunning, livable space. I couldn't be happier with this!",
-    description: "Morgan wanted a modern, functional office. We delivered a bright, stylish space with smart design solutions, perfectly tailored to his company style.",
+    description: "Murugan wanted a modern, functional office. We delivered a bright, stylish space with smart design solutions, perfectly tailored to his company style.",
   },
   {
     id: 2,
-    name: "Sarah Mitchell",
+    name: "Lakshmi",
     role: "Homeowner",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop&crop=face",
+    image: "/client-3.webp",
     quote: "The attention to detail was extraordinary. Every corner of my home now reflects my personality and lifestyle perfectly.",
-    description: "Sarah dreamed of a cozy yet elegant living space. We created a warm atmosphere with carefully curated furniture and lighting that transformed her house into a true home.",
+    description: "Lakshmi dreamed of a cozy yet elegant living space. We created a warm atmosphere with carefully curated furniture and lighting that transformed her house into a true home.",
   },
   {
     id: 3,
-    name: "David Chen",
+    name: "Kumaravel",
     role: "Restaurant Owner",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop&crop=face",
+    image: "/client2.webp",
     quote: "They understood exactly what our brand needed. The restaurant design has significantly improved our customer experience.",
-    description: "David needed a space that would enhance dining experiences. We designed an inviting atmosphere that perfectly balances aesthetics with functionality.",
+    description: "Kumaravel needed a space that would enhance dining experiences. We designed an inviting atmosphere that perfectly balances aesthetics with functionality.",
   },
 ];
 

@@ -148,10 +148,12 @@ export default function Contact() {
                 Instagram
               </a>
               <a
-                href="#"
+                href="https://www.facebook.com/people/Fortuna-Interiors/pfbid02s4cZyZ1KrQLfxa5bA8Td6S5PhBHoojxsDwxGNRsiTqyKzw95uRnsMhcuU2Bn7jel/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="block text-[14px] text-black hover:text-[#828487] transition-colors mb-2"
               >
-                Behance
+                Facebook
               </a>
               <a
                 href="#"
@@ -164,14 +166,14 @@ export default function Contact() {
             {/* Address */}
             <div>
               <p className="text-[12px] text-[#828487] mb-2">Address:</p>
-              <p className="text-[14px] text-black">TCXX/2153, MLA Road, Near Devi Temple</p>
-              <p className="text-[14px] text-black">Kudapanakunnu, Thiruvananthapuram</p>
-              <p className="text-[14px] text-black">Kerala, India</p>
+              <p className="text-[14px] text-black">No. 1/1, Madha Kovil 2nd Street</p>
+              <p className="text-[14px] text-black">K. Pudur, Madurai</p>
+              <p className="text-[14px] text-black">Tamil Nadu - 625007, India</p>
             </div>
 
             {/* Contact */}
             <div>
-              <p className="text-[14px] text-[#828487] mb-1">Tél: (+91) 9946661700 | Mob: (+91) 8907321700</p>
+              <p className="text-[14px] text-[#828487] mb-1">Tél: (+91) 6374434648 | Mob: (+91) 7402782714</p>
               <p className="text-[18px] md:text-[20px] font-medium text-black">
                 fortuneinteriorf3@gmail.com
               </p>

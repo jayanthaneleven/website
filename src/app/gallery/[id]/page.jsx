@@ -20,7 +20,7 @@ const projectsData = {
     rooms: [
       { name: 'Living Room', image: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80', description: 'Spacious living area with high ceilings and natural light' },
       { name: 'Master Bedroom', image: 'https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&q=80', description: 'Luxurious bedroom with panoramic views' },
-      { name: 'Kitchen', image: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80', description: 'Modern modular kitchen with premium appliances' },
+      { name: 'Kitchen', image: 'https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=800&q=80', description: 'Modern modular kitchen with premium appliances' },
       { name: 'Dining Room', image: 'https://images.unsplash.com/photo-1617806118233-18e1de247200?w=800&q=80', description: 'Elegant dining space for family gatherings' },
       { name: 'Bathroom', image: 'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&q=80', description: 'Spa-inspired bathroom with marble finishes' },
       { name: 'Balcony', image: 'https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&q=80', description: 'Private balcony with garden views' },
@@ -40,7 +40,7 @@ const projectsData = {
     rooms: [
       { name: 'Living Area', image: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80', description: 'Open-concept living with industrial touches' },
       { name: 'Bedroom', image: 'https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&q=80', description: 'Minimalist bedroom with mezzanine design' },
-      { name: 'Kitchen', image: 'https://images.unsplash.com/photo-1556909114-44e3e70034e2?w=800&q=80', description: 'Contemporary kitchen with breakfast bar' },
+      { name: 'Kitchen', image: 'https://images.unsplash.com/photo-1600489000022-c2086d79f9d4?w=800&q=80', description: 'Contemporary kitchen with breakfast bar' },
       { name: 'Bathroom', image: 'https://images.unsplash.com/photo-1620626011761-996317b8d101?w=800&q=80', description: 'Modern bathroom with rain shower' },
       { name: 'Study Corner', image: 'https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=800&q=80', description: 'Compact study area with natural light' },
       { name: 'Terrace', image: 'https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=80', description: 'Private rooftop terrace for relaxation' },
@@ -98,7 +98,7 @@ const projectsData = {
       { name: 'Central Courtyard', image: 'https://images.unsplash.com/photo-1600566752547-33e55e065c87?w=800&q=80', description: 'Traditional courtyard with fountain' },
       { name: 'Drawing Room', image: 'https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=800&q=80', description: 'Formal reception with royal furnishings' },
       { name: 'Royal Bedroom', image: 'https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80', description: 'Heritage bedroom with canopy bed' },
-      { name: 'Kitchen', image: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80', description: 'Modern kitchen in traditional setting' },
+      { name: 'Kitchen', image: 'https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=800&q=80', description: 'Modern kitchen in traditional setting' },
       { name: 'Dining Hall', image: 'https://images.unsplash.com/photo-1617806118233-18e1de247200?w=800&q=80', description: 'Grand dining with hand-painted ceiling' },
       { name: 'Terrace', image: 'https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=80', description: 'Rooftop terrace with city views' },
       { name: 'Prayer Room', image: 'https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=800&q=80', description: 'Serene space for meditation' },
@@ -116,7 +116,7 @@ const projectsData = {
     rooms: [
       { name: 'Living Space', image: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80', description: 'Multi-functional open living area' },
       { name: 'Sleeping Nook', image: 'https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&q=80', description: 'Cozy sleeping alcove with storage' },
-      { name: 'Kitchen', image: 'https://images.unsplash.com/photo-1556909114-44e3e70034e2?w=800&q=80', description: 'Efficient galley kitchen' },
+      { name: 'Kitchen', image: 'https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=800&q=80', description: 'Efficient galley kitchen' },
       { name: 'Bathroom', image: 'https://images.unsplash.com/photo-1620626011761-996317b8d101?w=800&q=80', description: 'Compact bathroom with smart storage' },
       { name: 'Work Area', image: 'https://images.unsplash.com/photo-1593062096033-9a26b09da705?w=800&q=80', description: 'Integrated home office setup' },
     ],
@@ -152,7 +152,7 @@ const projectsData = {
     rooms: [
       { name: 'Living Pavilion', image: 'https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=800&q=80', description: 'Open-air living with garden views' },
       { name: 'Master Bedroom', image: 'https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80', description: 'Serene bedroom with garden access' },
-      { name: 'Kitchen', image: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80', description: 'Country-style kitchen' },
+      { name: 'Kitchen', image: 'https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80', description: 'Country-style kitchen' },
       { name: 'Garden Courtyard', image: 'https://images.unsplash.com/photo-1600566752547-33e55e065c87?w=800&q=80', description: 'Central garden with water feature' },
       { name: 'Outdoor Living', image: 'https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80', description: 'Covered patio for entertaining' },
       { name: 'Guest Suite', image: 'https://images.unsplash.com/photo-1617325247661-675ab4b64ae2?w=800&q=80', description: 'Private guest quarters' },

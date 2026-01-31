@@ -67,8 +67,8 @@ export default function Footer() {
               <a href="https://www.instagram.com/fortuna._interiors?igsh=dnQ4OGJpcHN4dDN2&utm_source=qr" target="_blank" rel="noopener noreferrer" className="font-sans text-[13px] text-white/40 hover:text-white transition-colors">
                 Instagram
               </a>
-              <a href="#" className="font-sans text-[13px] text-white/40 hover:text-white transition-colors">
-                Behance
+              <a href="https://www.facebook.com/people/Fortuna-Interiors/pfbid02s4cZyZ1KrQLfxa5bA8Td6S5PhBHoojxsDwxGNRsiTqyKzw95uRnsMhcuU2Bn7jel/" target="_blank" rel="noopener noreferrer" className="font-sans text-[13px] text-white/40 hover:text-white transition-colors">
+                Facebook
               </a>
               <a href="#" className="font-sans text-[13px] text-white/40 hover:text-white transition-colors">
                 Twitter
@@ -76,8 +76,8 @@ export default function Footer() {
             </div>
             {/* Mobile: Phone and Email below social links */}
             <div className="lg:hidden mt-8 flex flex-col gap-2">
-              <a href="tel:+919946661700" className="font-sans text-[13px] text-[#C4A052] hover:text-white transition-colors">
-                (+91) 9946661700
+              <a href="tel:+916374434648" className="font-sans text-[13px] text-[#C4A052] hover:text-white transition-colors">
+                (+91) 6374434648
               </a>
             </div>
           </div>
@@ -95,8 +95,8 @@ export default function Footer() {
           >
             fortuneinteriorf3@gmail.com
           </a>
-          <a href="tel:+919946661700" className="font-sans text-[13px] text-white/40 hover:text-white transition-colors mt-4">
-            (+91) 9946661700
+          <a href="tel:+916374434648" className="font-sans text-[13px] text-white/40 hover:text-white transition-colors mt-4">
+            (+91) 6374434648
           </a>
         </div>
 
@@ -109,10 +109,10 @@ export default function Footer() {
             {/* Left - Copyright and Links */}
             <div className="lg:w-[33.33%] flex flex-col md:flex-row gap-4 md:gap-8">
               <span className="font-sans text-[11px] text-white/25">© All rights Reserved</span>
-              <a href="#" className="font-sans text-[11px] text-white/25 hover:text-white transition-colors">
+              <a href="/privacy-policy" className="font-sans text-[11px] text-white/25 hover:text-white transition-colors">
                 Privacy policy
               </a>
-              <a href="#" className="font-sans text-[11px] text-white/25 hover:text-white transition-colors">
+              <a href="/terms-of-service" className="font-sans text-[11px] text-white/25 hover:text-white transition-colors">
                 Terms of Service
               </a>
             </div>
@@ -129,9 +129,9 @@ export default function Footer() {
 
             {/* Center - Address */}
             <div className="lg:w-[33.33%] lg:text-center">
-              <p className="font-sans text-[13px] text-white font-medium">Kudapanakunnu, Thiruvananthapuram</p>
-              <p className="font-sans text-[13px] text-white/40">TCXX/2153, MLA Road</p>
-              <p className="font-sans text-[13px] text-white/40">Near Devi Temple, Kerala</p>
+              <p className="font-sans text-[13px] text-white font-medium">K. Pudur, Madurai</p>
+              <p className="font-sans text-[13px] text-white/40">No. 1/1, Madha Kovil 2nd Street</p>
+              <p className="font-sans text-[13px] text-white/40">Tamil Nadu - 625007</p>
             </div>
 
             {/* Right - Created By */}

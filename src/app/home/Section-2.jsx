@@ -56,10 +56,10 @@ export default function Section2() {
   }, []);
   
   // Animated counters
-  const yearCount = useCountUp(2014, 2000, isVisible);
-  const projectsCount = useCountUp(304, 2000, isVisible);
-  const clientsCount = useCountUp(189, 2000, isVisible);
-  const workCount = useCountUp(12, 1500, isVisible);
+  const yearCount = useCountUp(2021, 2000, isVisible);
+  const projectsCount = useCountUp(60, 2000, isVisible);
+  const clientsCount = useCountUp(50, 2000, isVisible);
+  const workCount = useCountUp(6  , 1500, isVisible);
 
   return (
     <section className="bg-neutral-100 py-20 px-5 md:px-10 min-h-screen relative" ref={sectionRef}>
@@ -79,7 +79,7 @@ export default function Section2() {
         <div className="relative p-5">
           <h2 className="font-sans text-6xl md:text-7xl lg:text-8xl font-normal text-black mb-2 leading-none">{yearCount}</h2>
           <h3 className="font-sans text-lg font-semibold text-black mb-1">Year of establishment</h3>
-          <p className="font-sans text-sm text-gray-500 mb-4">More than 10 years in the field</p>
+          <p className="font-sans text-sm text-gray-500 mb-4">More than 4 years in the field</p>
           <div className="flex">
             <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face" alt="Team member" className="w-10 h-10 rounded-full border-2 border-neutral-100 object-cover" />
             <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=face" alt="Team member" className="w-10 h-10 rounded-full border-2 border-neutral-100 object-cover -ml-2" />

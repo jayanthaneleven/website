@@ -129,7 +129,7 @@ export default function PageIntro({ onComplete }) {
             className="text-gray-600 tracking-wide"
             style={{ fontFamily: "system-ui, sans-serif" }}
           >
-            Since 2014
+            Since 2021
           </span>
         </div>
       </div>

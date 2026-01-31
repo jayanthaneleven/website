@@ -109,7 +109,7 @@ export default function Section11() {
             >
               <div className="aspect-[3/4] rounded-lg overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&h=500&fit=crop"
+                  src="/client1.jpeg"
                   alt="Woman on phone"
                   className="w-full h-full object-cover"
                 />
