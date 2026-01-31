@@ -140,7 +140,9 @@ export default function Contact() {
             {/* Social Links */}
             <div>
               <a
-                href="#"
+                href="https://www.instagram.com/fortuna._interiors?igsh=dnQ4OGJpcHN4dDN2&utm_source=qr"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="block text-[14px] text-black hover:text-[#828487] transition-colors mb-2"
               >
                 Instagram

@@ -21,7 +21,7 @@ const navLinks = [
 ];
 
 const socialLinks = [
-  { label: "Instagram", href: "https://instagram.com" },
+  { label: "Instagram", href: "https://www.instagram.com/fortuna._interiors?igsh=dnQ4OGJpcHN4dDN2&utm_source=qr" },
   { label: "Behance", href: "https://behance.net" },
   { label: "Twitter", href: "https://twitter.com" },
 ];

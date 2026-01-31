@@ -64,7 +64,7 @@ export default function Footer() {
           {/* Column 3: Social Links - 42% */}
           <div className="lg:w-[41.67%] mt-10 lg:mt-0 lg:pl-12 flex flex-col lg:flex-row lg:justify-end">
             <div className="flex gap-10">
-              <a href="#" className="font-sans text-[13px] text-white/40 hover:text-white transition-colors">
+              <a href="https://www.instagram.com/fortuna._interiors?igsh=dnQ4OGJpcHN4dDN2&utm_source=qr" target="_blank" rel="noopener noreferrer" className="font-sans text-[13px] text-white/40 hover:text-white transition-colors">
                 Instagram
               </a>
               <a href="#" className="font-sans text-[13px] text-white/40 hover:text-white transition-colors">
