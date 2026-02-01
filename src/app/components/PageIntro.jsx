@@ -101,7 +101,7 @@ export default function PageIntro({ onComplete }) {
         <img
           src="/low_poly_horse_no_face_detailingM.png"
           alt="Brand Logo"
-          className="mb-2 h-44 w-44 object-contain"
+          className="mb-2 h-32 w-32 object-contain"
         />
 
         {/* Brand Logo */}

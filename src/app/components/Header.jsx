@@ -27,7 +27,7 @@ export default function Header({ variant = "light" }) {
             <img
                 src="/low_poly_horse_no_face_detailingM.png"
                 alt="Brand Logo"
-                className="mb-2 h-20 w-20 object-contain"
+                className="mb-2 h-16 w-16 object-contain"
             />
             <span className={`font-sans text-[20px] sm:text-[35px] font-extrabold tracking-[1px] ${textColor} uppercase`}>
               FORTUNA

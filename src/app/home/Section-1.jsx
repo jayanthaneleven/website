@@ -119,7 +119,7 @@ export default function Section1() {
               className="inline-block uppercase"
               style={{
                 fontFamily: '"Inter", "Inter Placeholder", sans-serif',
-                backgroundImage: 'url(/interior-mask.jpg)',
+                backgroundImage: 'url("https://framerusercontent.com/images/FpPi9B2zCgJZautRGXpCZtzKgA.gif")',
                 backgroundSize: '200% 200%',
                 backgroundPosition: '0% 40%',
                 WebkitBackgroundClip: 'text',
@@ -137,7 +137,7 @@ export default function Section1() {
               className="inline-block uppercase"
               style={{
                 fontFamily: '"Inter", "Inter Placeholder", sans-serif',
-                backgroundImage: 'url(/interior-mask.jpg)',
+                backgroundImage: 'url("https://framerusercontent.com/images/FpPi9B2zCgJZautRGXpCZtzKgA.gif")',
                 backgroundSize: '200% 200%',
                 backgroundPosition: '0% 40%',
                 WebkitBackgroundClip: 'text',
